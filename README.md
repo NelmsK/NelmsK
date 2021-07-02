@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NelmsK
 - 👀 I’m interested in C++ and Java
-- 🌱 I’m currently learning C++, Python, and Java
+- 🌱 I’m currently learning C++, Java, Python, and JavaScript.
 - 💞️ I’m looking to collaborate on anything, really.
 - 📫 How to reach me: nelmsk@gmail.com
 
